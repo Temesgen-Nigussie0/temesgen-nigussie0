@@ -1,4 +1,4 @@
-<h1> ## Hi there 👋 </h1>
+<h1>  Hi there 👋 </h1>
 I'm a software developer focused on building modern, scalable and practical applications.
 
 My main area of development is the JavaScript/TypeScript ecosystem, especially React, Node.js, Express, NestJS and PostgreSQL.
