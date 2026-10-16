@@ -11,7 +11,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Temesgen-Nigussie0&label=Profile+views&color=0e75b6&style=flat-square" alt="profile views" />
 <img src="https://img.shields.io/badge/Based%20in-Addis%20Ababa%2C%20Ethiopia-2ea44f?style=flat-square" alt="location" />
-<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Freelance-orange?style=flat-square" alt="open to work" />
+<img src="https://img.shields.io/badge/Open%20to-Available%20%26%20Works-orange?style=flat-square" alt="open to work" />
 
 </div>
 
