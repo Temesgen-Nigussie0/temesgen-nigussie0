@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=220&section=header&text=Temesgen%20Nigussie&fontSize=52&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Co-Founder%20%40%20Ambar%20Software%20Labs&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=I+build+software+that+real+businesses+actually+use;React+%2B+TypeScript+on+the+front%2C+Node+%2B+PostgreSQL+behind+it;Senior+CS+student+%40+St.+Mary's+University%2C+Addis+Ababa;Shipping+from+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9+to+the+world" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=I+build+software+that+real+businesses+actually+use;React+%2B+on+the+front%2C+Node+%2B+PostgreSQL+behind+it;Senior+CS+student+%40+St.+Mary's+University%2C+Addis+Ababa;Shipping+from+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9+to+the+world" alt="Typing SVG" />
 </a>
 
 <br/><br/>
